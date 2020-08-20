@@ -15,4 +15,3 @@ def my_all?(collection)
     true
   end
 end
-return block_return_values
